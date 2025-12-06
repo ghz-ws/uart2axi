@@ -1,7 +1,7 @@
 # UART to AXI Master
 This IP provides UART to AXI4-Lite Master bridge interface. You can access AXI4-Lite bus by UART.<br>
 uart_axi.py is a sample code of UART Write/Read by python.<br>
-Related book (Japanese) is available from ... <br>
+Related book (Japanese) is available from https://ghz-ws.booth.pm/items/7735478 <br>
 <br>
 UART Write/Read sequence as follows.
 <img width="741" height="675" alt="image" src="https://github.com/user-attachments/assets/aae52f78-34cc-43e0-894e-72e0448bc2dc" />
